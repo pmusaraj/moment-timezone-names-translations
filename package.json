@@ -1,0 +1,13 @@
+{
+  "name": "@discourse/moment-timezone-names-translations",
+  "version": "1.0.0",
+  "description": "Translation files for Moment.js timezone names.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discourse/moment-timezone-names-translations.git"
+  },
+  "author": "Penar Musaraj",
+  "license": "MIT",
+  "homepage": "https://github.com/discourse/moment-timezone-names-translations#readme",
+  "main": "index.js"
+}
