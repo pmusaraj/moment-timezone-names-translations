@@ -5,6 +5,5 @@
   "repository": "https://github.com/discourse/moment-timezone-names-translations",
   "author": "Penar Musaraj",
   "license": "MIT",
-  "homepage": "https://github.com/discourse/moment-timezone-names-translations#readme",
-  "main": "index.js"
+  "homepage": "https://github.com/discourse/moment-timezone-names-translations#readme"
 }
